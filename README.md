@@ -2,7 +2,7 @@
 tugas Kelompok IDIM 5 binus
 
 Nama Kelompok : 
-1. Elizabeth Manogi ()
+1. Elizabeth Manogi (2602174636)
 2. Leandra Chika Gayatri ()
 3. Mulzahrian (2602198365)
 4. Salsabila Shofi ()
